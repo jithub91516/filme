@@ -1,2 +1,4 @@
 rootProject.name = 'filme-msa'
 include 'core-service'
+
+includeBuild('../filme-domain')
